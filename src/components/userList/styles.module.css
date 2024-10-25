@@ -1,0 +1,21 @@
+.liContainer {
+  display: flex;
+  gap: 5px;
+}
+
+.ulContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.formContainer {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.btnContainer {
+  display: flex;
+  gap: 5px;
+}
